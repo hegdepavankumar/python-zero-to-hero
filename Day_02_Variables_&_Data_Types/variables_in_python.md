@@ -144,7 +144,9 @@ print(sum(5, 10))
 
 ## Python Global Variable
 
-Any variable created outside a function can be accessed within any function and so they have global scope. 
+Any variable created outside a function can be accessed within any function and so they have global scope.
+
+Python global is a keyword that allows a user to modify a variable outside of the current scope. It is used to create global variables from a non-global scope i.e inside a function. Global keyword is used inside a function only when we want to do assignments or when we want to change a variable. Global is not needed for printing and accessing.
 
 Following is an example of global variables:
 
@@ -158,6 +160,13 @@ print(sum())
 
 # output 15
 ```
+
+### Rules of global keyword
+
+- If a variable is assigned a value anywhere within the function’s body, it’s assumed to be local unless explicitly declared as global.
+- Variables that are only referenced inside a function are implicitly global.
+- We use a global in Python to use a global variable inside a function.
+- There is no need to use a global keyword in Python outside a function.
 
 
 
