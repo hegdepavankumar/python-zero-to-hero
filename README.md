@@ -1,5 +1,13 @@
 # python-zero-to-hero
 
+![GitHub](https://img.shields.io/github/license/hegdepavankumar/python-zero-to-hero?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/python-zero-to-hero?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/python-zero-to-hero?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/python-zero-to-hero.svg?cache=remove)
+
+![maxresdefault](https://user-images.githubusercontent.com/85627085/232237297-a6e64130-4e8a-47b5-8a5e-b8828a1ac250.jpg)
+<br>
+
 This is a concise Python 3 programming tutorial for people who think that reading is boring. I try to show everything with simple code examples; there are no long and complicated explanations with fancy words. If you have never programmed before [click]() here to find out what programming is like and get started.
 
 This tutorial is aimed at people with no programming experience at all or very little programming experience. If you have programmed a lot in the past using some other language you may want to read [the official tutorial](https://docs.python.org/3/tutorial/) instead.
