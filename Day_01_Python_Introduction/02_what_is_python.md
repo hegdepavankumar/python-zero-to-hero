@@ -56,9 +56,9 @@ print("Hello, World!")
    - Internally, Python converts the source code into an intermediate form called bytecodes which is then translated into native language of       specific computer to run it.
    - No need to worry about linking and loading with libraries, etc.
   
- -Platform Independent
-    - Python programs can be developed and executed on multiple operating system platforms.
-    - Python can be used on Linux, Windows, Macintosh, Solaris and many more.
+-Platform Independent
+   - Python programs can be developed and executed on multiple operating system platforms.
+   - Python can be used on Linux, Windows, Macintosh, Solaris and many more.
 
  - Free and Open Source; Redistributable  
  - High-level Language
