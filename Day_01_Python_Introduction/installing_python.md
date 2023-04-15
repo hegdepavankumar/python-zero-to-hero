@@ -15,8 +15,58 @@ Step 3 : Run the installer.(Install as usual like any .exe windows applications)
 Step 4 : Make sure that the launcher gets installed. <br>
 
 ## Mac OS
+Install Python 3 as a part of the Command Line Developer Tools
+To check the current version of Python that is already installed, open the Terminal application by typing command + space and then spelling out terminal and hitting return. Now, type the following command, and then hit return to see that you have Python 2.7 pre-installed on your Mac:
+
+% python --version
+Python 2.7.18
+
+Now, try the following command to check whether or not Python 3 is installed on your Mac:
+
+~ % python3 --version
+
+The following message will probably appear on the Terminal window,
+
+xcode-select: note: no developer tools were found at '/Applications/Xcode.app', requesting install. Choose an option in the dialog to download the command line developer tools.
+
+And alongside the Terminal window, a dialog box will automatically appear that says this command requires the command line developer tools. First, let’s identify the command-line developer tools. To put it briefly, the command line developer tools package is a set of tools mostly used in the development process. They help run specific commands, such as make, git, python3, etc. So, although there are other ways to install Python 3.x on Mac without installing the command line developer tools, I recommend you install it because it provides a string of tools for development on Mac. To install the package, click on the Install button, and follow the steps to complete the installation process. Once the installation process is complete, rerun the previous command. Yes, Python 3.x is installed on your Mac.
+
+~ % python3 --version
+Python 3.8.9
+
+![img 2](https://user-images.githubusercontent.com/85627085/232229759-0cd061ed-2494-44db-8cc6-de8b07937887.png)
+
+~ % print(“Hello, World!”)
+
+![img 3](https://user-images.githubusercontent.com/85627085/232230130-65835a69-f622-422c-9990-666ddf08f846.png)
 
 ## Linux
+
+Installing Python 3 on Linux
+Download and Install Python:
+Before starting with the installation process, you need to download it. For that all versions of Python for Linux are available on [python.org](https://www.python.org/).
+
+![python-version-download](https://user-images.githubusercontent.com/85627085/232230320-dba93a92-36f2-4d93-9b5f-2da6fdb7b633.jpg)
+
+Download the required version and follow the further instructions for the installation process. <br>
+Beginning the installation. <br>
+For almost every Linux system, the following command could be used to install Python directly: <br>
+
+```
+$ sudo apt-get install python3.8
+```
+To verify the installation enter the following commands in your Terminal.
+```
+python3.8
+```
+
+Let’s consider a simple Hello World Program.
+```
+# Python program to print
+# Hello World
+  
+print("Hello World")
+```
 
 ## Running Python on Windows 
 ( In this tutorial I am using Windows OS )
