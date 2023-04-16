@@ -169,7 +169,11 @@ print(sum())
 - There is no need to use a global keyword in Python outside a function.
 
 
+<br>
 
+You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/hegdepavankumar/python-zero-to-hero/blob/main/LICENSE). <br>
+
+| [Next](https://github.com/hegdepavankumar/python-zero-to-hero/blob/master/Day_02_Variables_%26_Data_Types/02_python_data_types.md) | [List of contents](https://github.com/hegdepavankumar/python-zero-to-hero/blob/master/list_of_contents.md) |
 
 
 
