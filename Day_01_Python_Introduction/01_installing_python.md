@@ -83,6 +83,10 @@ Now you should have Python installed, and you should be able run it. <br>
 
 If you have trouble with this tutorial, please [tell me about it]() and I'll make this tutorial better, or [ask for help]() online. If you like this tutorial, please [give it a star]().
 
+## Reference
+1. [W3Schools](https://www.w3schools.com/)
+2. [GeeksforGeeks](https://www.geeksforgeeks.org/)
+
 You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/hegdepavankumar/python-zero-to-hero/blob/main/LICENSE). <br>
 
 | [Next](https://github.com/hegdepavankumar/python-zero-to-hero/blob/master/Day_01_Python_Introduction/02_what_is_python.md) | [List of contents](https://github.com/hegdepavankumar/python-zero-to-hero/blob/master/list_of_contents.md) |
