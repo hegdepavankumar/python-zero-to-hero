@@ -62,12 +62,6 @@ print(multiply.__doc__)
 
 
 
-"""
-You may use this tutorial freely at your own risk. See [LICENSE](https://github.com/hegdepavankumar/python-zero-to-hero/blob/main/LICENSE). <br>
-
-| [Next](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_02_Variables_%26_Data_Types) | [List of contents](https://github.com/hegdepavankumar/python-zero-to-hero/blob/master/list_of_contents.md) |
-"""
-
 
 
 
