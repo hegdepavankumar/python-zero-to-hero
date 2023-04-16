@@ -15,6 +15,7 @@ This tutorial is aimed at people with no programming experience at all or very l
 You can use [Python 3.11](https://www.python.org/downloads/) or any newer Python with this tutorial. Don't use Python 2 because it's no longer supported.
 
 ## List of Contents
+<br>
 
 | No | Day | Topic |
 |:------:|------------|:---------:|
