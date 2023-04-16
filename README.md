@@ -13,3 +13,10 @@ This is a concise Python 3 programming tutorial for people who think that readin
 This tutorial is aimed at people with no programming experience at all or very little programming experience. If you have programmed a lot in the past using some other language you may want to read [the official tutorial](https://docs.python.org/3/tutorial/) instead.
 
 You can use [Python 3.11](https://www.python.org/downloads/) or any newer Python with this tutorial. Don't use Python 2 because it's no longer supported.
+
+## List of Contents
+
+| No | Day | Topic |
+|:------:|------------|:---------:|
+| 1 | Day 01 | [ Python Introduction ](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_01_Python_Introduction)
+| 2 | Day 02 | [ Variables & Data Types ](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_02_Variables_%26_Data_Types)
