@@ -17,6 +17,7 @@ You can use [Python 3.11](https://www.python.org/downloads/) or any newer Python
 ## List of Contents
 <br>
 
+
 | No | Day | Topics |
 |:------:|------------|:---------:|
 | 1 | Day 01 | [ Python Introduction ](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_01_Python_Introduction)
