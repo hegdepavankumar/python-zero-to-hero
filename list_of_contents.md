@@ -3,6 +3,7 @@
 
 <br>
 
+
 | No | Day | Topic |
 |:------:|------------|:---------:|
 | 1 | Day 01 | [ Python Introduction ](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_01_Python_Introduction)
