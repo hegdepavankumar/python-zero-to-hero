@@ -1,8 +1,8 @@
 # python-zero-to-hero
 
-![GitHub](https://img.shields.io/github/license/hegdepavankumar/python-zero-to-hero?style=flat)
-![GitHub top language](https://img.shields.io/github/languages/top/hegdepavankumar/python-zero-to-hero?style=flat)
-![GitHub last commit](https://img.shields.io/github/last-commit/hegdepavankumar/python-zero-to-hero?style=flat)
+![GitHub](https://img.shields.io/github/license/imhegde/python-zero-to-hero?style=flat)
+![GitHub top language](https://img.shields.io/github/languages/top/imhegde/python-zero-to-hero?style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/imhegde/python-zero-to-hero?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/hegdepavankumar/python-zero-to-hero.svg?cache=remove)
 
 ![maxresdefault](https://user-images.githubusercontent.com/85627085/232237297-a6e64130-4e8a-47b5-8a5e-b8828a1ac250.jpg)
@@ -20,8 +20,8 @@ You can use [Python 3.11](https://www.python.org/downloads/) or any newer Python
 
 | No | Day | Topics |
 |:------:|------------|:---------:|
-| 1 | Day 01 | [ Python Introduction ](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_01_Python_Introduction)
-| 2 | Day 02 | [ Variables & Data Types ](https://github.com/hegdepavankumar/python-zero-to-hero/tree/master/Day_02_Variables_%26_Data_Types)
+| 1 | Day 01 | [ Python Introduction ](https://github.com/imhegde/python-zero-to-hero/tree/master/Day_01_Python_Introduction)
+| 2 | Day 02 | [ Variables & Data Types ](https://github.com/imhegde/python-zero-to-hero/tree/master/Day_02_Variables_%26_Data_Types)
 | 3 | Day 03 | [  ]()
 | 4 | Day 04 | [  ]()
 | 5 | Day 05 | [  ]()
@@ -34,11 +34,11 @@ You can use [Python 3.11](https://www.python.org/downloads/) or any newer Python
 
 
 ## Contributing
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
+Contributions are what makes the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 1. Fork the Project
 2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
+3. Commit your changes (git commit -m 'Add some AmazingFeature')
 4. Push to the Branch (git push origin feature/AmazingFeature)
 5. Open a Pull Request
 
